@@ -1,0 +1,54 @@
+# ===============================
+# GHOSTTY — TRON LEGACY
+# ===============================
+
+# Font
+font-family = JetBrains Mono
+font-size = 13
+font-feature = liga
+
+# Window
+window-padding-x = 10
+window-padding-y = 8
+window-decoration = auto
+
+# Transparência
+background = #000000
+background-opacity = 0.88
+
+# Cores principais
+foreground = #7DF9FF
+selection-background = #003344
+selection-foreground = #E6FFFF
+
+# Cursor
+cursor-style = block
+cursor-style-blink = true
+cursor-color = #00E5FF
+cursor-text = #000000
+
+# Palette (N=COLOR) — comentários em linhas separadas
+palette = 0=#000000
+palette = 1=#FF3B3B
+palette = 2=#00FF9C
+palette = 3=#FFD166
+palette = 4=#00B4FF
+palette = 5=#9D4EDD
+palette = 6=#00E5FF
+palette = 7=#C7F9FF
+palette = 8=#1A1A1A
+palette = 9=#FF6B6B
+palette = 10=#3CFFB0
+palette = 11=#FFE08A
+palette = 12=#4DCBFF
+palette = 13=#C77DFF
+palette = 14=#7DF9FF
+palette = 15=#FFFFFF
+
+# Tabs / Titlebar (GTK)
+window-theme = ghostty
+window-titlebar-background = #000000
+window-titlebar-foreground = #7DF9FF
+
+# Fechamento
+confirm-close-surface = false
